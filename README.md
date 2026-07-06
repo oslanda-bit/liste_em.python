@@ -1,2 +1,2 @@
-# liste_em.python
+# lista_em.python
 Codigo da lista de compras para copiar
